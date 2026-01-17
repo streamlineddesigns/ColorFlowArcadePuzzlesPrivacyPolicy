@@ -1,3 +1,6 @@
+#Game Link
+https://play.google.com/store/apps/details?id=com.StudioByStorm.ColorFlow&hl=en_US
+
 # Privacy Policy
 
 **Last updated:** 09/18/24
